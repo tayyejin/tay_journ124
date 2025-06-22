@@ -10,5 +10,9 @@ The answer choices were:
 
 **No, not at all rude** resulted to have the most pick.
 > No, not at all rude : 631
-> ~~Yes, somewhat rude~~ : 184
-> ~~Yes, very rude~~ : 35
+> ~~Yes, somewhat rude : 184~~
+> ~~Yes, very rude : 35~~
+
+Chart created by the survey data:
+
+![data wrapper chart](WgKBU-flying-etiquette-survey.png)
